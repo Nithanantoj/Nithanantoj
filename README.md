@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Nithan Anto J  
+x# 👋 Hello, I'm Nithan Anto J  
 
-## 👋 About Me  
+## 🌟 About Me  
 
 A passionate **Full Stack Developer** and tech enthusiast currently pursuing a **B.E. in Computer Science and Engineering**. I enjoy turning ideas into impactful web solutions and thrive on solving real-world problems through code.  
 
