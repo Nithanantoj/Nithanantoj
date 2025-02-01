@@ -39,5 +39,5 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 ## 🔗 Let's Connect  
 - **Email:** [nithananto.j2022cse@sece.ac.in](mailto:nithananto.j2022cse@sece.ac.in)  
 - **GitHub:** [Nithanantoj](https://github.com/Nithanantoj)  
-- **LinkedIn:** [Nithan Jhon Peter](https://www.linkedin.com/in/nithan-jhon-peter-22cs115/)  
+- **LinkedIn:** [Nithan Anto J](https://www.linkedin.com/in/nithan-jhon-peter-22cs115/)  
 
