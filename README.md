@@ -31,9 +31,9 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 ## 🛠️ Skills & Tools  
 **Languages:** C, Java, JavaScript, HTML, CSS  
 **Frameworks:** React.js, Node.js, Express.js  
-**Databases:** SQL, MongoDB  
+**Databases:** SQL, MongoDB, Firebase  
 **Core Concepts:** Data Structures, Algorithms, OOPS, Operating Systems  
-**Tools:** VSCode, GitHub, Canva, Postman 
+**Tools:** VSCode, GitHub, Canva, Postman , Figma
 
 
 ## 🔗 Let's Connect  
