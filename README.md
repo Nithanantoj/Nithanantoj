@@ -12,8 +12,8 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 
 
 ## 🏆 Achievements  
-- **LeetCode:** Max Rating - 1482 | Solved 125+ Problems | [Profile](https://leetcode.com/u/nithanantoj55/) 
-- **Codechef:** Max Rating - 1188 | Solved 200+ Problems | [Profile](https://www.codechef.com/users/nithanantoj)
+- **LeetCode:** Max Rating - 1482 | Solved 200+ Problems | [Profile](https://leetcode.com/u/nithanantoj55/) 
+- **Codechef:** Max Rating - 1188 | Solved 150+ Problems | [Profile](https://www.codechef.com/users/nithanantoj)
 - **HackerRank:** Silver badge in Java | [Profile](https://www.hackerrank.com/profile/nithananto_j2021) 
 - Secured **4th Place in JavaDB Sprint Week** conducted by Sri Eshwar College of Engineering  
 - Participated in **HackFest 24 - National Level Hackathon** (KPR College of Engineering)  
