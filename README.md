@@ -157,3 +157,7 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 
 ---
 
+# 📊 My Stats
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nithanantoj&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)
+
