@@ -11,21 +11,73 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 🚀 Committed to creating innovative solutions that make a meaningful difference while staying focused on continuous learning and growth. 
 
 
-## 🏆 Achievements  
-- **LeetCode:** Max Rating - 1482 | Solved 200+ Problems | [Profile](https://leetcode.com/u/nithanantoj55/) 
-- **Codechef:** Max Rating - 1188 | Solved 150+ Problems | [Profile](https://www.codechef.com/users/nithanantoj)
-- **HackerRank:** Silver badge in Java | [Profile](https://www.hackerrank.com/profile/nithananto_j2021) 
-- Secured **4th Place in JavaDB Sprint Week** conducted by Sri Eshwar College of Engineering  
-- Participated in **HackFest 24 - National Level Hackathon** (KPR College of Engineering)  
-- Attended **Blockchain & Cybersecurity Workshops** (Sri Eshwar College of Engineering)  
+## 🏆 Achievements
+
+<details>
+  <summary>LeetCode: Max Rating - 1482 | Solved 200+ Problems | <a href="https://leetcode.com/u/nithanantoj55/" target="_blank">Profile</summary>
+</details>
+
+<details>
+  <summary>CodeChef: Max Rating - 1188 | Solved 150+ Problems | <a href="https://www.codechef.com/users/nithanantoj55" target="_blank">Profile</summary>
+</details>
+
+<details>
+  <summary>HackerRank: 🥇Gold badge in Java | 🥈Silver badge in SQL | <a href="https://www.hackerrank.com/profile/nithananto_j2021" target="_blank">Profile</summary>
+</details>
+
+<details>
+  <summary>GeeksforGeeks: Coding Score - 150 | Solved 50+ Problems | <a href="https://www.geeksforgeeks.org/user/nithanjhyjne/" target="_blank">Profile</summary>
+</details>
+
+<details>
+  <summary>Secured 4th Place in JavaDB Sprint Week conducted by Sri Eshwar College of Engineering</summary>
+</details>
+
+<details>
+  <summary>Participated in HackFest 24 - National Level Hackathon (KPR College of Engineering)</summary>
+</details>
+
+<details>
+  <summary>Attended Blockchain & Cybersecurity Workshops (Sri Eshwar College of Engineering)</summary>
+</details>
+
+<br/>
+
+## 📜 Certifications
+
+<details>
+  <summary>AWS Educate: Getting Started with Storage (S3 bucket) – <b>AWS</b> – 2025</summary>
+</details>
+
+<details>
+  <summary>Complete Full-Stack Web Development Bootcamp – <b>Udemy</b> – 2025</summary>
+</details>
+
+<details>
+  <summary>HackerRank SQL (Basic) Certificate – <b>HackerRank</b> – 2025</summary>
+</details>
+
+<details>
+  <summary>Using MongoDB with Node.js – <b>MongoDB</b> – 2025</summary>
+</details>
+
+<details>
+  <summary>Postman API Fundamentals Student Expert – <b>Postman</b> – 2025</summary>
+</details>
+
+<details>
+  <summary>Mastering Data Structures and Algorithms Using Java – <b>NPTEL</b> – 2024</summary>
+</details>
+
+<details>
+  <summary>HackerRank Java (Basic) Certificate – <b>HackerRank</b> – 2024</summary>
+</details>
+
+<details>
+  <summary>Object-Oriented Programming with Java – <b>Udemy</b> – 2023</summary>
+</details>
 
 
-## 📜 Certifications  
-- **Using MongoDB with Node.js** (MongoDB) – *2025*  
-- **Postman API Student Expert** (Canvas Credentials) – *2025*  
-- **Mastering Data Structures and Algorithms Using Java** (NPTEL) – *2024*  
-- **HackerRank Java (Basic) Certificate** – *2024*  
-- **Object-Oriented Programming with Java** (Udemy) – *2023*  
 
 
 ## 🚀 Tech Stack
