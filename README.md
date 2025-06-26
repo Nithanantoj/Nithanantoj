@@ -16,7 +16,7 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
   <a href="mailto:nithanjhonpeter@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nithan-jhon-peter-22cs115/" target="_blank">
+  <a href="https://www.linkedin.com/in/nithanjhonpeter/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -117,7 +117,7 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithan-jhon-peter-22cs115/" target="_blank">
+  <a href="https://www.linkedin.com/in/nithanjhonpeter/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/nithanantoj55/" target="_blank">
