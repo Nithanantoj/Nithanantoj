@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 
-A passionate **Full Stack Developer** and tech enthusiast currently pursuing a **B.E. in Computer Science and Engineering**. I enjoy turning ideas into impactful web solutions and thrive on solving real-world problems through code.  
+A passionate **Web Developer** and tech enthusiast currently pursuing a **B.E. in Computer Science and Engineering**. I enjoy turning ideas into impactful web solutions and thrive on solving real-world problems through code.  
 
 🔧 Specializing in **MERN Stack Development**, with a strong foundation in **data structures**, **algorithms**, and building scalable applications.  
 
