@@ -41,8 +41,6 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
   <summary>Attended Blockchain & Cybersecurity Workshops (Sri Eshwar College of Engineering)</summary>
 </details>
 
-<br/>
-
 ## 📜 Certifications
 
 <details>
@@ -76,9 +74,6 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
 <details>
   <summary>Object-Oriented Programming with Java – <b>Udemy</b> – 2023</summary>
 </details>
-
-
-
 
 ## 🚀 Tech Stack
 
@@ -129,8 +124,8 @@ A passionate **Full Stack Developer** and tech enthusiast currently pursuing a *
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
 ---
+
 ## 🌐 Socials
 
 <p align="center">
