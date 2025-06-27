@@ -146,7 +146,12 @@ A passionate **Web Developer** and tech enthusiast currently pursuing a **B.E. i
 
 # 📊 My Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nithanantoj&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nithanantoj&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF" alt="GitHub Streak" />
+</p>
 
-[![Nithan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithanantoj&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nithan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithanantoj&theme=react-dark)](https://github.com/Nithanantoj)
+
+
+
 
